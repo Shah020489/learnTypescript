@@ -1,0 +1,23 @@
+In the third class we have learned the following items:
+    Hello World program  --Done
+    Run the following commands:
+    "tsc --init" Initilize tsc project in the folder.
+    "tsc -w" Watch changes in tsc file
+    File nmae: main.tsc
+    "tsc"
+   Run the code "node main.js"
+
+    What is variable?
+    What is the difference between let, var and const?
+    What is strong type in type script?
+    What is string?
+    What is boolean? --Done
+    What is number?
+    What is Any?
+    Difference Interpreter vs compiler
+    Typescript file first compile in javascript code and javascript is 
+    an interperter language and it run line by line.
+
+    Why we need all of these thing like first we write our code in typescript and then we compile it in JS and then run our JS?
+    Because type script is super set of JS and our Node will only understand JS code not our typescript code so we have to compile
+    this code first and then we will run our JS.
